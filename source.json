@@ -1,0 +1,10 @@
+{
+  "scrapers": [
+    {
+      "name": "Bing",
+      "urlPattern": "www.bing.com/search",
+      "searchUrl": "https://www.bing.com/search?q={term}"
+    }
+  ],
+  "file": "bing.js"
+}
